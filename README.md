@@ -10,9 +10,12 @@ To demo your version of React, render a very simple list of "tasks" (e.g. "Wash 
 
 ## Folder Structure
 
-- /src/lib/ --> This is where your React inspired library should live. There is already a function called render` defined here which is designed to take a DOM element and component. This is where you should start.
+    /src/lib/
+        * This is where your React inspired library should live.
+        * There is already a function called `render` defined here which is designed to take a DOM element and component. This is where you should start.
 
-- /src/app --> Your simple application components should live in here. There is already a call to `MyReact.render` in /src/app/index.js to get you started.
+    /src/app
+        * Your simple application components should live in here. There is already a call to `MyReact.render` in `/src/app/index.js` to get you started.
 
 ## Getting started
 
