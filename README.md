@@ -1,4 +1,4 @@
-# My React
+# MyReact
 
 ## The Task
 
