@@ -1,1 +1,1 @@
-export function MyReactRender(el, Component) {}
+export function render(el, Component) {}
